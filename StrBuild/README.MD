@@ -12,23 +12,4 @@
 3. **Проверка четности** — если число чётное, оно добавляется в объект `StringBuilder`.
 4. **Вывод результата** — программа выводит строку с чётными числами.
 
----
 
-## Пример использования
-
-```csharp
-using System.Text;
-
-string str = "123456789";
-StringBuilder sb = new StringBuilder();
-
-foreach (char nu in str)
-{
-    int num = (int)char.GetNumericValue(nu); // Преобразование символа в число
-    if (num % 2 == 0) 
-    {
-        sb.Append(num + " "); // Добавление четного числа в строку
-    }
-}
-
-Console.Write("Четные числа: " + sb);

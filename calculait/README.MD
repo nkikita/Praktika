@@ -7,7 +7,7 @@
 ### Пример использования
 
 ## Формат вызова:
-
+```bash
   calculaitor.exe 10 + 20
 
 ## Результат:
@@ -27,9 +27,9 @@
 1.Создайте проект с именем Calculator и добавьте файл Program.cs с кодом.
 
 2.Скомпилируйте проект командой:
-
+```bash
   dotnet publish -c Release -r win-x64 --self-contained true
 
 3.Перейдите в папку публикации и запустите программу:
-
+```bash
   calculaitor.exe 10 + 20

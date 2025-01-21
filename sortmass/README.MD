@@ -32,8 +32,9 @@
 
   2.Скомпилируйте проект командой:
 
-  ```dotnet publish -c Release -r win-x64 --self-contained true
-```
+  ```
+  dotnet publish -c Release -r win-x64 --self-contained true
+  ```
   3.запустите программу
 
 Замечания

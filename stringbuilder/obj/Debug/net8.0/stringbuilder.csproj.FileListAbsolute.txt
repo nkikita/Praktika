@@ -1,0 +1,15 @@
+c:\Users\nikit\Praktika\stringbuilder\bin\Debug\net8.0\stringbuilder.exe
+c:\Users\nikit\Praktika\stringbuilder\bin\Debug\net8.0\stringbuilder.deps.json
+c:\Users\nikit\Praktika\stringbuilder\bin\Debug\net8.0\stringbuilder.runtimeconfig.json
+c:\Users\nikit\Praktika\stringbuilder\bin\Debug\net8.0\stringbuilder.dll
+c:\Users\nikit\Praktika\stringbuilder\bin\Debug\net8.0\stringbuilder.pdb
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.AssemblyInfoInputs.cache
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.AssemblyInfo.cs
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.csproj.CoreCompileInputs.cache
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.sourcelink.json
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.dll
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\refint\stringbuilder.dll
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.pdb
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\stringbuilder.genruntimeconfig.cache
+c:\Users\nikit\Praktika\stringbuilder\obj\Debug\net8.0\ref\stringbuilder.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikit\\Praktika\\StrBuild\\StrBuild.csproj": {}
+    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\stringBuild\\stringBuild.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikit\\Praktika\\StrBuild\\StrBuild.csproj": {
+    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\stringBuild\\stringBuild.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikit\\Praktika\\StrBuild\\StrBuild.csproj",
-        "projectName": "StrBuild",
-        "projectPath": "C:\\Users\\nikit\\Praktika\\StrBuild\\StrBuild.csproj",
+        "projectUniqueName": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\stringBuild\\stringBuild.csproj",
+        "projectName": "stringBuild",
+        "projectPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\stringBuild\\stringBuild.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikit\\Praktika\\StrBuild\\obj\\",
+        "outputPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\stringBuild\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

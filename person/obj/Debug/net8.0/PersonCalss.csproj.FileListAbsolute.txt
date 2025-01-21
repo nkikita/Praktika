@@ -1,0 +1,14 @@
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\bin\Debug\net8.0\PersonCalss.exe
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\bin\Debug\net8.0\PersonCalss.deps.json
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\bin\Debug\net8.0\PersonCalss.runtimeconfig.json
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\bin\Debug\net8.0\PersonCalss.dll
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\bin\Debug\net8.0\PersonCalss.pdb
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.AssemblyInfoInputs.cache
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.AssemblyInfo.cs
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.csproj.CoreCompileInputs.cache
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.dll
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\refint\PersonCalss.dll
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.pdb
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\PersonCalss.genruntimeconfig.cache
+c:\Users\nikit\OneDrive\Рабочий стол\codes\vsc\PersonCalss\obj\Debug\net8.0\ref\PersonCalss.dll

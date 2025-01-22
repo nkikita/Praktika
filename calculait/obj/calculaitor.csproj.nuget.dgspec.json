@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\calculaitor\\calculaitor.csproj": {}
+    "C:\\Users\\nikit\\Praktika\\calculait\\calculaitor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\calculaitor\\calculaitor.csproj": {
+    "C:\\Users\\nikit\\Praktika\\calculait\\calculaitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\calculaitor\\calculaitor.csproj",
+        "projectUniqueName": "C:\\Users\\nikit\\Praktika\\calculait\\calculaitor.csproj",
         "projectName": "calculaitor",
-        "projectPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\calculaitor\\calculaitor.csproj",
+        "projectPath": "C:\\Users\\nikit\\Praktika\\calculait\\calculaitor.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikit\\OneDrive\\Рабочий стол\\codes\\vsc\\calculaitor\\obj\\",
+        "outputPath": "C:\\Users\\nikit\\Praktika\\calculait\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
